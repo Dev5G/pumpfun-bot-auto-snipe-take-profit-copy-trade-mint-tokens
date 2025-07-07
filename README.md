@@ -58,7 +58,7 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/Dev5G/pumpfun-bot-auto-snipe-take-profit-copy-trade-mint-tokens/blob/main/assets/pumpfun-sniper-bot.png" width="600" />
+  <img src="https://github.com/Dev5G/pumpfun-bot-auto-snipe-take-profit-copy-trade-mint-tokens/blob/master/assets/pumpfun-sniper-bot.png" width="600" />
   <br/>
   <i>Sniping and trading with automated take-profit logic</i>
 </p>
