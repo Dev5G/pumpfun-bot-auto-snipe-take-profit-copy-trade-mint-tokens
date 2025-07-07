@@ -6,6 +6,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Dev5G/pumpfun-bot-auto-snipe-take-profit-copy-trade-mint-tokens/blob/master/assets/pumpfun-sniper-bot.png?raw=true" width="600" />
+  <br/>
+  <i>Sniping and trading with automated take-profit logic</i>
+</p>
+
+---
 ## ⚡️ Features
 
 > Designed for serious degen traders looking to dominate Pump.fun.
@@ -55,15 +62,7 @@
 
 ---
 
-## 📸 Screenshots
 
-<p align="center">
-  <img src="https://github.com/Dev5G/pumpfun-bot-auto-snipe-take-profit-copy-trade-mint-tokens/blob/master/assets/pumpfun-sniper-bot.png" width="600" />
-  <br/>
-  <i>Sniping and trading with automated take-profit logic</i>
-</p>
-
----
 
 ## 📦 Installation
 
